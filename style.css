@@ -47,6 +47,12 @@ header p {
     margin-top: 20px;
     font-size:large;
 }
+.about custom-heading {
+    color: #005f8a;
+    margin-top: 25px;
+    font-size: large;
+    font-weight: bold; /* Optional: Make it look like a heading */
+}
 
 .about p {
     font-size: 18px;
