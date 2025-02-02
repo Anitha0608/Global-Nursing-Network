@@ -42,7 +42,7 @@ header p {
     margin-bottom: 20px;
 }
 
-.about h3, h4, h5, h6, h7{
+.about h3, h4, h5, h6 {
     color: #005f8a;
     margin-top: 20px;
     font-size:large;
