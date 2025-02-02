@@ -51,7 +51,7 @@ header p {
     color: #005f8a;
     margin-top: 25px;
     font-size: large;
-    font-weight: bold; /* Optional: Make it look like a heading */
+    font-weight: bold;
 }
 
 .about p {
